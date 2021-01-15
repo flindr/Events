@@ -37,3 +37,14 @@ body {
 .hide {
     display: none;
 }
+
+.flex {
+    display: flex;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+
+    background-color: crimson;
+}
